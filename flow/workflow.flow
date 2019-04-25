@@ -1,1 +1,1 @@
-[{"source": 122, "target": 123}, {"source": 122, "target": 124}]
+{"conns": [{"source": 122, "target": 123}, {"source": 122, "target": 124}], "axis": [123, 124, 122]}
