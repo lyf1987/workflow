@@ -1,1 +1,1 @@
-{"conns": [{"source": 122, "target": 123}, {"source": 122, "target": 124}], "axis": [123, 124, 122]}
+{"conns": [{"source": 122, "target": 123}, {"source": 122, "target": 124}], "axis": [{"y": 342, "x": 195, "id": 123}, {"y": 242, "x": 439, "id": 124}, {"y": 30, "x": 300, "id": 122}]}
